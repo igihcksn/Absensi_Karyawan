@@ -1,0 +1,53 @@
+C:\Projects_CSharp\AnimatedPanel\AnimatedPanel\bin\Debug\Animator.dll
+C:\Projects_CSharp\AnimatedPanel\AnimatedPanel\bin\Debug\Animator.pdb
+C:\Projects_CSharp\AnimatedPanel\AnimatedPanel\obj\Debug\Animator.dll
+C:\Projects_CSharp\AnimatedPanel\AnimatedPanel\obj\Debug\Animator.pdb
+C:\Projects_CSharp\Animator\Animator\bin\Debug\Animator.dll
+C:\Projects_CSharp\Animator\Animator\bin\Debug\Animator.pdb
+C:\Projects_CSharp\Animator\Animator\obj\Debug\Animator.dll
+C:\Projects_CSharp\Animator\Animator\obj\Debug\Animator.pdb
+C:\Users\EKO\Downloads\Animator\Animator\Animator\bin\Debug\Animator.dll
+C:\Users\EKO\Downloads\Animator\Animator\Animator\bin\Debug\Animator.pdb
+C:\Users\EKO\Downloads\Animator\Animator\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+C:\Users\EKO\Downloads\Animator\Animator\Animator\obj\Debug\Animator.dll
+C:\Users\EKO\Downloads\Animator\Animator\Animator\obj\Debug\Animator.pdb
+H:\Dokumen\1. Latihan\Animator\Animator\Animator\bin\Debug\Animator.dll
+H:\Dokumen\1. Latihan\Animator\Animator\Animator\bin\Debug\Animator.pdb
+H:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+H:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.dll
+H:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.pdb
+E:\Dokumen\1. Latihan\Animator\Animator\Animator\bin\Debug\Animator.dll
+E:\Dokumen\1. Latihan\Animator\Animator\Animator\bin\Debug\Animator.pdb
+E:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+E:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.dll
+E:\Dokumen\1. Latihan\Animator\Animator\Animator\obj\Debug\Animator.pdb
+H:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.dll
+H:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.pdb
+H:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+H:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.dll
+H:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.pdb
+G:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.dll
+G:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.pdb
+G:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+G:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.dll
+G:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.pdb
+E:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.dll
+E:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.pdb
+E:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+E:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.dll
+E:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.pdb
+J:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.dll
+J:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.pdb
+J:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+J:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.dll
+J:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.pdb
+F:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.dll
+F:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\bin\Debug\Animator.pdb
+F:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+F:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.dll
+F:\Projek Kuliah\Projek C# Form\Program Perpus\Animator\obj\Debug\Animator.pdb
+C:\Users\danan\Desktop\Absensi - Copy\Animator\bin\Debug\Animator.dll
+C:\Users\danan\Desktop\Absensi - Copy\Animator\bin\Debug\Animator.pdb
+C:\Users\danan\Desktop\Absensi - Copy\Animator\obj\Debug\Animator.csprojResolveAssemblyReference.cache
+C:\Users\danan\Desktop\Absensi - Copy\Animator\obj\Debug\Animator.dll
+C:\Users\danan\Desktop\Absensi - Copy\Animator\obj\Debug\Animator.pdb

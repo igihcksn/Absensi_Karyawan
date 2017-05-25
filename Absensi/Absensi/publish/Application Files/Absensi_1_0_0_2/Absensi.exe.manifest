@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Absensi.exe" version="1.0.0.2" publicKeyToken="a44dd56da884cb39" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Absensi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Absensi.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="4.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Absensi.exe" size="1497600">
+      <assemblyIdentity name="Absensi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eBXUGiGGbAaBn4/0BASaBgZnMeUp2LH/BaMcreiMbtI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Animator.dll" size="51712">
+      <assemblyIdentity name="Animator" version="1.0.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7KPG/8jDxcH7nQsRFlHOdtTPGqkOED7v18Z27WsqOrk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="438272">
+      <assemblyIdentity name="MySql.Data" version="6.7.4.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sXi25+GR/+8DZ5xUdxFJHQgWF+JWOzMISRchLGvBjy8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RdlCri.dll" size="28672">
+      <assemblyIdentity name="RdlCri" version="4.1.0.0" publicKeyToken="1D5D52D71320D95D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wPkc2Onw8QoLi4knT7ujyVpWnHQi+eBcC4t+4LjqjCs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RdlEngine.dll" size="745472">
+      <assemblyIdentity name="RdlEngine" version="4.1.0.0" publicKeyToken="98D963A3ED6BF418" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>sxK1nbkZHtmHU/8ibRTZmMcqoCNFOIDIfZKWbsBQqQU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RdlViewer.dll" size="81920">
+      <assemblyIdentity name="RdlViewer" version="4.1.0.0" publicKeyToken="98D963A3ED6BF418" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GlHW+B0lXArQyDAt2Okl06DEpAcfXatW0jMvGY+jjfE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Absensi.exe.config" size="1293">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pl0efrc3hMC5C4b1maHXfdEJ0uwCcyqJaNOqIPFLclw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_absensi.rdl" size="14454">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tNgLqeW7mgMw119maRdMnHw74T2UfyxQqk7ODJ9SSgw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_harian.rdl" size="16152">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TJrXN8VAjT31a8UOWcopM3PLoBSk3EuI8KAWf6KCI6s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_karyawan.rdl" size="15706">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Pgs6HlEh6CZ/t+q583mYPIBQJEHU78Sr87fBnmxDuFs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_karyawanAktif.rdl" size="16144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Hg3Io+FyKGEYsZHtXchyvrap4jv4saAxMmvyQzgqY/A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_karyawanNonAktif.rdl" size="16148">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>D66KpnFdWX4dowku2nPR4PI+3nmwah9rKtA+xAmdwQU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="rpt_Rekap.rdl" size="17234">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mUry2WBuI0wlX1HXWFKL9VV/l1F5D81C1IlaG/4eVCo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=user-PC\user" issuerKeyHash="87cff0b0fac12062d0d9cd526b91511cf2a4c2ea" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8Ee5hYQivHmqkuq9j++U+LUr1fXJSh6Nvr4wv8IVIls=</DigestValue></Reference></SignedInfo><SignatureValue>af91a2vhp8sK6j/eezTagtnlzVLPV96VhKtmYdT/UJBBqx09wj2zTTVGegcgAM9/BFWtb5M+uPtYo0k44PaaRexoi3AwkP5fq742RVvgfx3Ixsn/Xd4cpGsrG+imYsDeUsh3bUf+GHGzMSG6IzHX+3zdG95rwa1aLlFb/7OU3Ww=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5pNeyEEYrh6JL9bsewjUP2wbVUc6jAVqcu91zmbvcSWmJuvwycUyDCo0v0n4ytXDZlvWOijtZTtKy3GvBozTuEn4OnqZQCf8GCo0nchd/VJMty1vtU3vPSMQCCS1qu7z0UqhsaEnXmW5AJj8lUQazbRYH6TP4xoCPHnn8ZoM6ks=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="5b2215c2bf30bebe8d1e4ac9f5d52bb5f894ef8fbdea92aa79bc228485b947f0" Description="" Url=""><as:assemblyIdentity name="Absensi.exe" version="1.0.0.2" publicKeyToken="a44dd56da884cb39" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=user-PC\user</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jHdTrxcapQqvfFdHWSjrQRWygCcXWDCUrfxGR8gq9UI=</DigestValue></Reference></SignedInfo><SignatureValue>SyyGN8H0L4B7CHI82GYbAcodOihRDlz2evUJkXTtauVUadS5sjsSUVCCjOL1Od57dasCE0RQ5uCqjOKh7O95dkRXMVwaBPUg1oeyZEEv8lbsrQWNOq72vN5Z8FuLaFtXF9eAlrDNr10cdnv7PrGWkHGFzMy9DpGVcKqk3YDXmbs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5pNeyEEYrh6JL9bsewjUP2wbVUc6jAVqcu91zmbvcSWmJuvwycUyDCo0v0n4ytXDZlvWOijtZTtKy3GvBozTuEn4OnqZQCf8GCo0nchd/VJMty1vtU3vPSMQCCS1qu7z0UqhsaEnXmW5AJj8lUQazbRYH6TP4xoCPHnn8ZoM6ks=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQQ2GtjZ4KFK1MS5E8KfWqITANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwHhcNMTQwOTE3MTY1MTAzWhcNMTUwOTE3MjI1MTAzWjAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOaTXshBGK4eiS/W7HsI1D9sG1VHOowFanLvdc5m73Elpibr8MnFMgwqNL9J+MrVw2Zb1joo7WU7SstxrwaM07hJ+Dp6mUAn/BgqNJ3IXf1STLctb7VN7z0jEAgktaru89FKobGhJ15luQCY/JVEGs20WB+kz+MaAjx55/GaDOpLAgMBAAEwDQYJKoZIhvcNAQELBQADgYEArelR26wd+j2D7c9eYZZ9rmILfxP7Jneyc+omKfVxkybf6JwInC1VAznPRVAe7P2UAiieaHpn0A2NEmW9HUYpxpIPx6nrTUZFJ60ivWwRHzfETz2EjA+ylj2uxTJOZIOEoW5JpvvDp6sK/KcNeNCAIWNHPuFy/s7ViUVMUu99Ocs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

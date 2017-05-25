@@ -1,0 +1,108 @@
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_absensi.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_harian.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_karyawan.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_karyawanAktif.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_karyawanNonAktif.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\rpt_Rekap.rdl
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\Absensi.exe.config
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\Absensi.exe
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\bin\Debug\Absensi.pdb
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_absensi.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_dataKary.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.Frm_pengumuman.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_settingHost.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_settjadwal.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_splash.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_TambahKary.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_login.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_settingAdmin.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.frm_utama.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.Lap_rekapAbsensi.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.Lap_absensi.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.Lap_Karyawan.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.Properties.Resources.resources
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.csproj.GenerateResource.Cache
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.exe
+C:\Users\danan\Desktop\Absensi - Copy\Absensi\obj\Debug\Absensi.pdb
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_absensi.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_harian.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_karyawan.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_karyawanAktif.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_karyawanNonAktif.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\rpt_Rekap.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\Absensi.exe.config
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\Absensi.exe.manifest
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\Absensi.application
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\Absensi.exe
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\bin\Debug\Absensi.pdb
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_absensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_dataKary.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.Frm_pengumuman.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_settingHost.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_settjadwal.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_splash.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_TambahKary.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_login.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_settingAdmin.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.frm_utama.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.Lap_rekapAbsensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.Lap_absensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.Lap_Karyawan.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.Properties.Resources.resources
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.csproj.GenerateResource.Cache
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.TrustInfo.xml
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.exe.manifest
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.application
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.exe
+D:\Data Kampus\ProjekKU c# program\Absensi\Absensi\obj\Debug\Absensi.pdb
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\Absensi.exe.config
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.exe
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.pdb
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_absensi.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_harian.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_karyawan.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_karyawanAktif.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_karyawanNonAktif.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\rpt_Rekap.rdl
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\Absensi.exe.manifest
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\Absensi.application
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\Absensi.exe
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\bin\Debug\Absensi.pdb
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.csprojResolveAssemblyReference.cache
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_absensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_dataKary.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.Frm_pengumuman.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_settingHost.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_settjadwal.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_splash.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_TambahKary.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_login.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_settingAdmin.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.frm_utama.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.Lap_rekapAbsensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.Lap_absensi.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.Lap_Karyawan.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.Properties.Resources.resources
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.csproj.GenerateResource.Cache
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.TrustInfo.xml
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.exe.manifest
+D:\Data Kampus\ProjekKU c# program\Absensi OJT\Absensi\Absensi\obj\Debug\Absensi.application
+D:\presensi\Absensi\Absensi\bin\Debug\Absensi.exe.config
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.exe
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.pdb
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.csprojResolveAssemblyReference.cache
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_absensi.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_dataKary.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.Frm_pengumuman.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_settingHost.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_settjadwal.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_splash.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_TambahKary.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_login.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_settingAdmin.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.frm_utama.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.Lap_rekapAbsensi.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.Lap_absensi.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.Lap_Karyawan.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.Properties.Resources.resources
+D:\presensi\Absensi\Absensi\obj\Debug\Absensi.csproj.GenerateResource.Cache
